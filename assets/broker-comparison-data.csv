@@ -1,0 +1,45 @@
+name,score,reviews,meta,badge,badgeStyle,regulation,broker_type,max_leverage,min_deposit,commission,open_account_url
+GTCFX,,,DW4Y featured broker,Featured Partner,,"FSA; FSCA","STP; ECN",1:500,$100,$0,https://www.gtcfx.com/
+TradersHub,,,DW4Y primary broker,Primary Platform,,"Licensed; Segregated Funds","MT5; Multi-Asset",1:400,$200,$0,https://www.tradershub.ae/
+UEXO,,,DW4Y verified partner,Verified Access,,"IFSC; VFSC","STP; MT4; MT5; WebTrader",1:500,$50,$0,https://uexo.com/
+Pepperstone,4.4,167,,Sponsored,sponsored,"FCA (UK); CySEC (Cyprus); ASIC (Australia); BaFin (Germany); SCB (Bahamas); DFSA (UAE); CMA","STP; ECN; DMA",1:30,$0,$3.5,https://pepperstone.com/
+Tickmill,4.2,138,,,,"FCA (UK); CySEC (Cyprus); FSCA (South Africa); FSA (Seychelles)","STP; NDD",1:1000,$100,$0,https://tickmill.com/
+Taurex,4.4,85,,,,"FCA (UK); FSA (Seychelles); CMA (UAE)","Matched Principal",1:2000,$0,$0,https://www.tradetaurex.com/
+ELEV8,0,0,,,,"FSC (British Virgin Islands); MISA",ECN,1:1000,$20,$0,https://www.elev8.com/
+Scope Markets,4.8,3,,,,"FSA (Seychelles); CySEC (Cyprus); FSC (Belize); FSCA (South Africa); FSC (Mauritius); CMA","STP; ECN",1:1000,$10,$7,https://www.scopemarkets.com/
+EBC Financial Group,4.8,14,,,,"FCA (UK); ASIC (Australia); CIMA (Cayman Islands); FSCA (South Africa)","STP; ECN",1:500,$50,$6,https://www.ebc.com/
+ActivTrades,4.5,310,,,,"FCA (UK); FSC (British Virgin Islands); SCB (Bahamas); CONSOB (Italy); CMVM (Portugal); CVM Bacen (Brazil)",STP,1:1000,$10,$0,https://www.activtrades.com/
+DNA Markets,5,2,,,,"ASIC (Australia); IFC (St. Lucia)",ECN,1:400,$100,$5,https://www.dnamarkets.com/
+ATFX,4.9,21,,,,"FCA (UK); FSA (Seychelles); FSC (British Virgin Islands); CySEC (Cyprus); ASIC (Australia); FSCA (South Africa); HKSFC (Hong Kong); ESCA (UAE); SERC (Cambodia)",STP,1:200,$50,$0,https://www.atfx.com/
+STARTRADER,4,21,,,,"FSA (Seychelles); ASIC (Australia); FSCA (South Africa); FSC (Mauritius); CMA (UAE)","STP; ECN; Prime ECN",1:1000,$50,$7,https://www.startrader.com/
+Eightcap,4.1,45,,,,"FCA (UK); CySEC (Cyprus); ASIC (Australia); SCB (Bahamas)","STP; ECN; NDD",1:500,$100,$3.5,https://www.eightcap.com/
+LiteForex,3.4,33,,,,"CySEC (Cyprus)",ECN,1:30,$50,$0,https://www.litefinance.org/
+NCE,4.7,115,,,,"FSA (Seychelles)","STP; ECN",1:1000,$100,$0,https://nce.sc/
+XM Group,4.3,321,,,,"CySEC (Cyprus); FSC (Belize); DFSA (UAE); FSCA (South Africa); ESCA (UAE)","Market Maker",1:1000,$5,$3.5,https://www.xm.com/
+AMarkets,4,21,,,,"FSC (Cook Islands); M.I.S.A.","STP; ECN; NDD",1:3000,$100,$0,https://www.amarkets.com/
+Errante,4.6,13,,,,"CySEC (Cyprus); FSA (Seychelles)","STP; ECN; DMA",1:500,$50,$0,https://errante.com/
+FxPro,4.5,410,,,,"FCA (UK); SCB (Bahamas)",NDD,1:30,$100,$0,https://www.fxpro.com/
+YWO,4.8,2,,,,"FSCA (South Africa); FSC (Mauritius); MISA","Pro; Cent",1:1000,$10,$0,https://www.ywo.com/
+PrimeXBT,4.5,5,,,,"FSA (Seychelles); FSCA (South Africa); FSC (Mauritius)","STP; ECN; Market Maker",1:2000,$0,$0,https://primexbt.com/
+RoboForex,4.4,213,,,,"FSC (Belize)","STP; ECN; Market Maker",1:2000,$10,$0,https://roboforex.com/
+LHFX,5,1,,,,"FSCA (South Africa); FSC (Mauritius)","STP; ECN",1:500,$10,$3,https://www.lhfx.com/
+Moneta Markets,4.7,224,,,,"FCA (UK); FSA (Seychelles); FSCA (South Africa)","STP; ECN",1:1000,$50,$3,https://www.monetamarkets.com/
+FXON,4.8,23,,,,"FSA (Seychelles)",STP,1:1000,$100,$3,https://fxon.com/
+IUX,4.4,19,,,,"ASIC (Australia); FSCA (South Africa); FSC (Mauritius)","STP; Market Maker",1:3000,$50,$3,https://iux.com/
+PU Prime,4.4,53,,,,"FSA (Seychelles); ASIC (Australia); FSCA (South Africa); FSC (Mauritius); ESCA (UAE)","STP; ECN; NDD; DMA",1:1000,$50,$0,https://www.puprime.com/
+Blueberry,4.3,43,,,,"ASIC (Australia); VFSC (Vanuatu)","STP; Market Maker; Pro; Cent",1:500,$100,$7,https://blueberrymarkets.com/
+IC Markets,4.2,387,,,,"ASIC (Australia)",ECN,1:1000,$0,$7,https://www.icmarkets.com/
+MH Markets,4.5,43,,,,"ASIC (Australia); VFSC (Vanuatu); FSC (Mauritius); FINTRAC (Canada); CMA (UAE)","STP; ECN; Cent",1:2000,$50,$0,https://www.mhmarkets.com/
+MultiBank Group,4.1,13,,,,"FSC (British Virgin Islands); CySEC (Cyprus); BaFIN (Germany); CIMA (Cayman Islands); VFSC (Vanuatu); FSC (Mauritius); FSA (Seychelles); MAS (Singapore); TFG (China); AUSTRAC (Australia); ESCA (UAE); VARA (UAE); FMA (Austria)","STP; ECN; Pro",1:1000,$50,$0,https://multibankgroup.com/
+Headway,4.5,19,,,,"FSCA (South Africa)","STP; ECN",1:1000000,$1,$0,https://hw-fxtrade.com/
+Just2Trade,4.6,36,,,,"CySEC (Cyprus)","STP; ECN",1:500,$200,$3,https://just2trade.online/
+Fusion Markets,4.6,63,,,,"FSA (Seychelles); ASIC (Australia); VFSC (Vanuatu)",NDD,1:500,$0,$2.25,https://fusionmarkets.com/
+VT Markets,4.4,54,,,,"ASIC (Australia); FSCA (South Africa); FSC (Mauritius)","STP; ECN",1:1000,$100,$0,https://www.vtmarkets.com/
+FP Markets,4.6,60,,,,"CySEC (Cyprus); ASIC (Australia); FSCA (South Africa); CMA","STP; ECN; Market Maker; DMA",1:500,$100,$0,https://www.fpmarkets.com/
+Spec FX,4.7,282,,,,"FSCA (South Africa); FSC (Mauritius)",ECN,1:1000,$100,$0,https://specfx.com/
+JustMarkets,4,52,,,,"FSA (Seychelles); CySEC (Cyprus); FSCA (South Africa); FSC (Mauritius)","STP; ECN",1:3000,$10,$3,https://justmarkets.com/
+ZERO Markets,4.4,8,,,,"FMA (NZ); FSC (Mauritius)","STP; ECN",1:500,$100,$2.5,https://www.zeromarkets.com/
+FXCC,4.6,220,,,,"CySEC (Cyprus); MISA","STP; ECN; NDD",1:1000,$100,$0,https://www.fxcc.com/
+Rock-West,4.9,5,,,,"FSA (Seychelles)","Dealing Desk; STP; ECN; DMA; Prime of Prime; Pro",1:2000,$50,$0,https://rock-west.com/
+GO Markets,3.5,40,,,,"CySEC (Cyprus); ASIC (Australia); FSC (Mauritius); FSA (Seychelles)","Market Maker",1:500,$0,$2,https://www.gomarkets.com/
+Hantec Markets,4.9,3,,,,"FSC (Mauritius)","STP; ECN",1:500,$10,$0,https://hmarkets.com/
